@@ -8,6 +8,7 @@
         body {
             background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Elizabeth_Raffald_%28cropped%29.jpg/378px-Elizabeth_Raffald_%28cropped%29.jpg");
             background-color: rgb(255, 255, 243);
+            background-repeat: no-repeat;
         }
     </style>
     </head>
