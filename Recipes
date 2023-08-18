@@ -47,6 +47,9 @@
             text-decoration: none;
             display: inline-block;
         }
+        a:hover, a:active {
+            background-color: rgb(112, 158, 189);
+        }
     </style>
     </head>
 </html>
