@@ -42,6 +42,7 @@
         div {
             border: 15px solid rgb(112, 158, 189);
             color: black;
+            padding: 14px 25px;
         }
     </style>
     </head>
