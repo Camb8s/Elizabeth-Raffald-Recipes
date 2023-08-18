@@ -50,6 +50,9 @@
         a:hover, a:active {
             background-color: rgb(112, 158, 189);
         }
+        a {
+            margin-right: 500px;
+        }
     </style>
     </head>
 </html>
