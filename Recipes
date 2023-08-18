@@ -12,6 +12,7 @@
             background-position: right top;
             margin-right: 200px;
             background-size: 280px;
+            background-attachment: fixed;
         }
     </style>
     </head>
