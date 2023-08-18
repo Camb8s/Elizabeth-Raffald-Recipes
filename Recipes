@@ -5,7 +5,9 @@
     <script src="https://kit.fontawesome.com/4068e0497c.js" crossorigin="anonymous"></script>
     
     <style>
-        
+        body {
+            background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Elizabeth_Raffald_%28cropped%29.jpg/378px-Elizabeth_Raffald_%28cropped%29.jpg");
+        }
     </style>
     </head>
 </html>
