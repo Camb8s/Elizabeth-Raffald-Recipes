@@ -28,6 +28,9 @@
         }
         p {
             color: rgb(37, 28, 59);
+            font-family: garamond;
+            font-size: 15px;
+            
         }
     </style>
     </head>
