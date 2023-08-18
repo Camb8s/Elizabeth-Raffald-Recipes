@@ -10,6 +10,7 @@
             background-color: rgb(255, 255, 243);
             background-repeat: no-repeat;
             background-position: right top;
+            margin-right: 200px;
         }
     </style>
     </head>
