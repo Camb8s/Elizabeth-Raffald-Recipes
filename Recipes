@@ -39,6 +39,10 @@
             font-weight: bold;
             text-align: center;
         }
+        div {
+            border: 15px solid rgb(112, 158, 189);
+            color: black;
+        }
     </style>
     </head>
 </html>
