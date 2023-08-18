@@ -16,6 +16,7 @@
         }
         h1{
             font-family: "brush script mt";
+            color: rgb(37,28,59);
         }
     </style>
     </head>
