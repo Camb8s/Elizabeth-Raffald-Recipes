@@ -14,17 +14,20 @@
             background-size: 280px;
             background-attachment: fixed;
         }
-        h1{
+        h1 {
             font-family: "brush script mt";
             color: rgb(37,28,59);
             text-align: center;
         }
-        h2{
+        h2 {
             color: rgb(37, 28, 59);
             text-align: left;
             text-decoration: underline;
             font-family: "brush script mt";
-            margin-left:100px
+            margin-left: 100px;
+        }
+        p {
+            color:
         }
     </style>
     </head>
